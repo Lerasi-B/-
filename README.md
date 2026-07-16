@@ -268,5 +268,3 @@
         <a href=" https://lerasi-b.github.io/CSS-NWEOL-BATCH13/" class="payment-link">Click here to checkthe full account report of the year</a>
     </footer>
 
-</body>
-</html>
