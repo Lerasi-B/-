@@ -263,7 +263,7 @@
 </tr>
 </table>
 
-<h1 class="red-heading">Total monthly dues from Jan to July: 76,000</h1>
+<h1 class="center-heading">Total monthly dues from Jan to July: 76,000</h1>
     
 
     
