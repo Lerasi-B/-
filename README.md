@@ -235,7 +235,7 @@
 		    <td>1000</td>
                     <td>1000</td>
                 </tr>
-<tr>
+
                     
 <tr>
                     <td>Mrs. Barididum M</td>
@@ -244,7 +244,7 @@
 		    <td>1000</td>
                     <td>1000</td>
                 </tr>
-<tr>
+
                     
 
                 <tr>
