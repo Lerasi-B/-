@@ -32,7 +32,7 @@
         }
         h2 {
             color: #1e3d59;
-            border-bottom: 2px solid #ffc13b;
+            border-bottom: 2px solid      #ffc13b;
             padding-bottom: 5px;
 	    
         }
@@ -83,11 +83,11 @@
 
     <header>
         <h1>CSS NWEOL BATCH 2013</h1>
-        <p>Motto:Unity, Progress and Service</p>
+        <p>Motto: Unity, Progress and Service</p>
     </header>
 
     <main>
-        <h2>CSS BATCH 2013 Monthly Financial Report <br>JAN-JULY 2026</h2>
+        <p>CSS BATCH 2013 Monthly Financial Report <br>JAN-JULY 2026</p>
         
         <table>
             <thead>
