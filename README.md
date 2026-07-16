@@ -144,21 +144,21 @@
                 </tr>
 
 
-<tr>
+                <tr>
                     <td>Dubarade Victor</td>
                     <<td>1000</td>
 		    <td>1000</td>
                     <td>1000</td>
                 </tr>
 
-<tr>
+                <tr>
                     <td>Hycent B</td>
                     <td>1000</td>
 		    <td>1000</td>
 		    <td>1000</td>
                     <td>1000</td>
                 </tr>
-<tr>
+                <tr>
                     <td>Bariduune F</td>
                     <td>1000</td>
 		    <td>1000</td>
@@ -166,21 +166,23 @@
                     <td>1000</td>
 		    <td>1000</td>
                 </tr>
-<tr>
+				
+                <tr>
                     <td>Leera Agbora</td>
                     <td>1000</td>
 		    <td>1000</td>
 		    <td>1000</td>
                     <td>1000</td>
                 </tr>
-<tr>
+				
+                <tr>
                     <td>Joy Kayone</td>
                    <td>1000</td>
 		    <td>1000</td>
 		    <td>1000</td>
                     <td>1000</td>
                 </tr>
-<tr>
+                <tr>
                     <td>Barisere Gogo</td>
                     <td>1000</td>
 		            <td>1000</td>
@@ -188,7 +190,7 @@
 		            <td>1000</td>
                     <td>1000</td>
                 </tr>
-<tr>
+                <tr>
                     <td>Barivure Yorka</td>
                     <td>1000</td>
 		            <td>1000</td>
@@ -197,25 +199,25 @@
                     <td>1000</td>
 					<td>1000</td>
                 </tr>
-<tr>
+                <tr>
                     <td>Adomagio Y.B</td>
                     <td>1000</td>
 		   			<td>1000</td>
                     <td>1000</td>
                 </tr>
-<tr>
+                <tr>
                     <td>Gift Baadom</td>
                     <td>1000</td>
                     <td>1000</td>
                 </tr>
-<tr>
+                <tr>
                     <td>Kingsley L</td>
                     <td>1000</td>
 		    <td>1000</td>
 		    <td>1000</td>
                     <td>1000</td>
                 </tr>
-<tr>
+                <tr>
                     <td>Barielnen Stanley</td>
                     <td>1000</td>
 		    <td>1000</td>
@@ -223,13 +225,13 @@
                     <td>1000</td>
 		    <td>1000</td>
                 </tr>
-<tr>
+                <tr>
                     <td>Leemabari S.K</td>
                      <td>1000</td>
 		    <td>1000</td>
                     <td>1000</td>
                 </tr>
-<tr>
+                <tr>
                     <td>Mr. Barisere M</td>
                    <td>1000</td>
 		    <td>1000</td>
@@ -238,7 +240,7 @@
                 </tr>
 
                     
-<tr>
+                 <tr>
                     <td>Mrs. Barididum M</td>
                     <td>1000</td>
 		    		<td>1000</td>
@@ -257,7 +259,7 @@
                     <td>7,000</td>
 		    		<td>2,000</td>
 					</tr>
-					</table>
+					
 
 
 <h1>Total monthly dues from Jan to July: 76,000</h1>
